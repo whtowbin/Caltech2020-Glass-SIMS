@@ -1,0 +1,15 @@
+#%%
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import scipy.optimize as opt
+import scipy.stats as stats
+import scipy.optimize as opti
+import ODRBootstrapping_edits_Fall-2024 as boot
+import janitor
+from matplotlib.backends.backend_pdf import PdfPages
+import traceback
+import math
+from matplotlib import rc
+
+#%%
