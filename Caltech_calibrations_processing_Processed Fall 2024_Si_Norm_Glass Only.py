@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import scipy.optimize as opt
 import scipy.stats as stats
 import scipy.optimize as opti
-import ODRBootstrapping_edits_May_2022 as boot
+import ODRBootstrapping_edits_Fall_2024 as boot
 import janitor
 from matplotlib.backends.backend_pdf import PdfPages
 import traceback
